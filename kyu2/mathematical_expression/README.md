@@ -1,5 +1,5 @@
 
-# Mathematical Expression from Codewares
+# Mathematical Expression from Codewars
 
 ## Kata location
 
